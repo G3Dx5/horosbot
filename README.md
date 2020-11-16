@@ -4,4 +4,4 @@ The sendMessage.py module allows the user to change between horoscope modes (dai
 
 Example usage: python3 horos.py
    
-
+GaDayas November 2020.
