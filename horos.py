@@ -17,7 +17,7 @@ import sys
 from time import sleep
 
 
-def get_horoscope():
+def get_horoscope() -> None:
     """ Setup variables, get message from API via json and divide into
     deliverable amounts.
 
